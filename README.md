@@ -1,2 +1,2 @@
-# claundy.github.io
-Personal Jekyll Web Site
+# Recipe
+Coming soon - my recipe site
