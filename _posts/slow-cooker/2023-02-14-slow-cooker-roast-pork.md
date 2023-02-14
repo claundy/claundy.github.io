@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Slow Cooker Roast Pork
-date: 2023-02-14 07:43 +0000
+date: 2023-02-14
 categories: 
   - Pork
   - Slow Cooker
-  - Meat
-  - Roast
 featured_image: /images/SlowCookerRostPork.jpg
 recipe:
   servings: 6+
@@ -28,17 +26,17 @@ recipe:
 
     **Crackling**
 
-    1. Heat oven to 180°C
-    2. Rinse salt off skin under a running tap and blot dry.
-    3. Place skin, fat side down, on baking tray and put on top shelf of oven for 20 minutes
-    4. Remove cracking from oven, drain fat and cut into strips with scissors, Turn oven up to 220°C.
-    5. Return to oven for another 20-30 min
-    6. *If you want the meat a bit more "roasty" - remove it from the slow cooker and place, uncovered, in the oven while the cracking finishes up.*
+    7. Heat oven to 180°C
+    8. Rinse salt off skin under a running tap and blot dry.
+    9. Place skin, fat side down, on baking tray and put on top shelf of oven for 20 minutes
+    10. Remove cracking from oven, drain fat and cut into strips with scissors, Turn oven up to 220°C.
+    11. Return to oven for another 20-30 min
+    12. *If you want the meat a bit more "roasty" - remove it from the slow cooker and place, uncovered, in the oven while the cracking finishes up.*
 
     **Gravy**
 
-    7. Empty the juices from the slow cooker into a pan and heat to a simmer over a medium low heat.
-    8. Add enough gravy granules to thicken (I usually start with 6 heaped tsp. adding more if needed)
+    13. Empty the juices from the slow cooker into a pan and heat to a simmer over a medium low heat.
+    14. Add enough gravy granules to thicken (I usually start with 6 heaped tsp. adding more if needed)
 
 ---
 It might not be quick - but that's not necessarily a bad thing.

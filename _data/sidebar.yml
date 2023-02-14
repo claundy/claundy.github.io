@@ -1,5 +1,10 @@
 author_image: /images/author.jpg
-description_markdown: "My name is **Chris**, I like to code and cook."
+description_markdown: |-
+  I'm **Chris**, 
+  
+  I like to cook and code.
+
+  Sometimes, at the same time!
 facebook: claundy
 twitter: chrislaundy
 instagram: chris.laundy
