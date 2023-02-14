@@ -36,7 +36,7 @@ recipe:
     **Gravy**
 
     13. Empty the juices from the slow cooker into a pan and heat to a simmer over a medium low heat.
-    14. Add enough gravy granules to thicken (I usually start with 6 heaped tsp. adding more if needed)
+    14. Add enough gravy granules to thicken.
 
 ---
 It might not be quick - but that's not necessarily a bad thing.

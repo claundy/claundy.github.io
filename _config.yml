@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: The Kitchen Codery
+title: The Coder's Kitchen
 url: "https://r.eci.pe"
 baseurl: ""
 google_analytics_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog and recipes.
+description: Recipes from the coder's kitchen.
 author:
   name: Chris Laundy
   email: chris@laundy.uk
   twitter: chrislaundy
 social:
-  name: The Kitchen Codery
+  name: TheKitchenCoder
   links:
-    - https://thekitchencodery.co.uk
+    - https://r.eci.pe
 
 # -----
 # Build

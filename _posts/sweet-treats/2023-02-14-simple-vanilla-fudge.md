@@ -3,7 +3,7 @@ layout: post
 title: Simple Vanilla Fudge
 date: 2023-02-14
 categories:
-  - Sweet Treat
+  - Sweet Treats
 featured_image: https://source.unsplash.com/SAmdtTqh9T8/1560x940
 recipe:
   servings:

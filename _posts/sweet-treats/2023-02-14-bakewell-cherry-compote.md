@@ -3,7 +3,7 @@ layout: post
 title: Bakewell Cherry Compote
 date: 2023-02-14
 categories:
-  - Sweet Treat
+  - Sweet Treats
 featured_image: https://source.unsplash.com/rloi3B533A8/1560x940
 recipe:
   servings: about 1 cup
