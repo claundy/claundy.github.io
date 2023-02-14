@@ -2,8 +2,8 @@
 # Site
 
 title: The Kitchen Codery
-url: "https://r.eci.pe/"
-baseurl: "https://r.eci.pe/"
+url: "https://r.eci.pe"
+baseurl: ""
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
@@ -88,3 +88,26 @@ _options:
   author_image:
     width: 400
     height: 400
+
+# -------
+# Compose
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      categories:
+      featured_image:
+      recipe:
+        servings:
+        prep:
+        cook:
+        ingredients_markdown:
+        directions_markdown:
+    posts:
+      categories:
+      featured_image:
+      recipe:
+        servings:
+        prep:
+        cook:
+        ingredients_markdown:
+        directions_markdown:
