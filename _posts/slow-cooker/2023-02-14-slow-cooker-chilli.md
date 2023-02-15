@@ -2,8 +2,8 @@
 layout: post
 title: Slow Cooker Chilli
 date: 2023-02-14
+category: Slow Cooker
 categories:
-  - Slow Cooker
   - Beef
 featured_image: https://source.unsplash.com/vA1L1jRTM70/1560x940
 recipe:

@@ -2,9 +2,9 @@
 layout: post
 title: Slow Cooker Roast Pork
 date: 2023-02-14
+category: Slow Cooker
 categories: 
   - Pork
-  - Slow Cooker
 featured_image: /images/SlowCookerRostPork.jpg
 recipe:
   servings: 6+

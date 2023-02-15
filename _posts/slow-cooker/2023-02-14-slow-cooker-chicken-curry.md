@@ -2,9 +2,10 @@
 layout: post
 title: Slow Cooker Chicken Curry
 date: 2023-02-14
+category: Slow Cooker
 categories:
-  - Slow Cooker
   - Chicken
+  - Curry
 featured_image: https://source.unsplash.com/obMdrL5pFWI/1560x940
 recipe:
   servings: 4+

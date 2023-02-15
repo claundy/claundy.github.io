@@ -2,8 +2,7 @@
 layout: post
 title: Lemon Posset
 date: 2023-02-14
-categories:
-- Sweet Treats
+category: Sweet Treats
 featured_image: https://source.unsplash.com/s05XKB6jK2c/1560x940
 recipe:
   servings: 6

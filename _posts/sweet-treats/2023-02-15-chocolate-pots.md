@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Chocolate Pots
+category: Sweet Treats
 categories:
-- Sweet Treats
-- Chocolate
+  - Chocolate
 featured_image: /images/chocolate-pots.jpg
 recipe:
   servings: 6
