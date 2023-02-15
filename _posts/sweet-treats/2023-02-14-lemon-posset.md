@@ -8,7 +8,7 @@ featured_image: https://source.unsplash.com/s05XKB6jK2c/1560x940
 recipe:
   servings: 6
   prep: 10 minutes
-  cook: 10 minutes
+  cook: 10 minutes (plus cooling time)
   ingredients_markdown: |-
     * 3 unwaxed lemons
     * 150 g sugar
@@ -21,9 +21,9 @@ recipe:
     5. Remove from heat and let the mixture cool for a minute or two.
     6. Add the lemon juice to the pan and whisk to combine.
     7. Divide between 6 ramekin dishes (or glass tumblers etc)
-    8. Leave to cool then sprinkle with remaining zest. Cover with cling film and store in fridge for up to a week.
+    8. Leave to cool then sprinkle with remaining zest. Cover and store in fridge for up to a week.
 ---
 
-Twenty minutes on a Sunday for a week of puddings 👍
+Twenty minutes on a Sunday for a week of puddings straight from the fridge 👍
 
 Depending on your portion control, you could eek this out to 7 servings or so. I find the best way is to use some kitchen scales and weigh out about 80g per serving.
