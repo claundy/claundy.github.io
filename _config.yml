@@ -100,6 +100,7 @@ jekyll_compose:
         ingredients_markdown:
         directions_markdown:
     posts:
+      category:
       categories:
       featured_image:
       recipe:
