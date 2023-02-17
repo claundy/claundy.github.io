@@ -3,7 +3,7 @@ layout: bread
 title: "'Go-to' Sourdough"
 date: 2023-02-15
 category: Sourdough
-featured_image: https://source.unsplash.com/rYOqbTcGp1c/1560x940
+featured_image: /images/goto-sourdough.jpg
 recipe:
   servings: 1 Large loaf
   prep: 30 minutes
