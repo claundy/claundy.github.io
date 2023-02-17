@@ -3,7 +3,7 @@ layout: post
 title: Bakewell Cherry Compote
 date: 2023-02-14
 category: Sweet Treats
-featured_image: https://source.unsplash.com/rloi3B533A8/1560x940
+featured_image: /images/bakewell-cherry.jpg
 recipe:
   servings: about 1 cup
   prep: 5 minutes
