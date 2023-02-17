@@ -1,20 +1,21 @@
 ---
 layout: bread
-title: Oak Smoked White Sourdough
+title: Oak Smoked Sourdough
 date: 2023-02-15
 category: Sourdough
 categories:
   - Experimental
-featured_image: https://source.unsplash.com/nVoDL1YDWRE/1560x940
+featured_image: /images/oak-smoked-white.jpg
 recipe:
   servings: 1 loaf
-  prep: 30 minutes
+  prep: 1 hour
   cook: 40 minutes 
   ingredients_markdown: |-
-    * 200 g 100% active starter
+    * 200 g active starter
     * 400 g strong white flour
     * 200 ml water
-    * Oak smoking wood chips
+    * 5g salt
+    * Oak smoking chips
     
 
   directions_markdown: |-
@@ -24,6 +25,8 @@ recipe:
     
 ---
 Early experiments have been well received!
+
+![Smoking Gun](/images/smoker.jpg "Smoking the flour")
 
 Mesquite smoke worked well too - a
  slightly more intense flavour.
