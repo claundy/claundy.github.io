@@ -26,7 +26,9 @@ recipe:
 ---
 Early experiments have been well received!
 
-![Smoking Gun](/images/smoker.jpg "Smoking the flour")
+![Smoking Gun](/images/smoker.jpg "Smoking under cloche")
+* First attempt under cloche was ok but could be more smoke flavour.
+* Mesquite smoke worked well too - a slightly more intense flavour.
 
-Mesquite smoke worked well too - a
- slightly more intense flavour.
+![Smoking The Flour](/images/oak-smoke.jpg "Smoking in flat dish")
+* This way worked a little better as more surface area of flour is exposed to the smoke. Repeated 3 or 4 times stirring the flour in between.

@@ -4,7 +4,7 @@ title: Bread Rolls
 date: 2023-02-16 07:52 +0000
 category: Bread Machine
 categories:
-featured_image: https://source.unsplash.com/oJ29TklvYbU/1560x940
+featured_image: /images/bread-rolls.jpg
 recipe:
   servings: 8 
   prep: 1 hour
