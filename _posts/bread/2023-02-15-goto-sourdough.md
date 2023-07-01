@@ -10,10 +10,10 @@ recipe:
   cook: 50 minutes
   ingredients_markdown: |-
     * 200 g starter
-    * 200 g strong white flour
+    * 100 g strong white flour
     * 200 g malted bread flour
     * 200 g multigrain bread flour
-    * 320 ml water
+    * 220 ml water
     * 30 g runny honey
     * 2 tbsp. butter
     * 2.5 tsp. salt
